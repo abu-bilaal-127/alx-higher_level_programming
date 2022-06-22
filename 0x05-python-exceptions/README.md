@@ -9,5 +9,4 @@
 6-raise_exception_msg.py
 100-safe_print_integer_err.py
 101-safe_function.py
-102-magic_calculation.py
-103-python.c
+102-magic_calculation.pyI
